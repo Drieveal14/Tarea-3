@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tarea_3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cafe_oscuro</item>
+        <item name="colorSecondary">@color/terracota</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">@color/cafe_oscuro</item>
+        <item name="android:navigationBarColor">@color/crema_fondo</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Theme.Tarea_3" parent="Base.Theme.Tarea_3" />
+</resources>

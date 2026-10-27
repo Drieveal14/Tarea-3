@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cafe Ciencias</string>
+    <string name="titulo_cafeteria">Cafe Ciencias</string>
+    <string name="subtitulo_cafeteria">Un día de clases comienza con un buen café</string>
+    <string name="titulo_menu">Nuestro menú</string>
+    <string name="icono_taza">☕</string>
+    <string name="formato_precio">$%1$.2f</string>
+    <string name="mensaje_seleccion">Seleccionaste %1$s - $%2$.2f</string>
+
+    <string name="imagen_producto">Imagen del producto</string>
+    <string name="espresso_nombre">Espresso</string>
+    <string name="espresso_descripcion">Café intenso con aroma profundo</string>
+    <string name="americano_nombre">Café americano</string>
+    <string name="americano_descripcion">Espresso suave preparado con agua caliente</string>
+    <string name="capuchino_nombre">Capuchino</string>
+    <string name="capuchino_descripcion">Espresso, leche vaporizada y espuma cremosa</string>
+    <string name="latte_nombre">Latte vainilla</string>
+    <string name="latte_descripcion">Café con leche y un toque dulce de vainilla</string>
+    <string name="moka_nombre">Moka</string>
+    <string name="moka_descripcion">Espresso con chocolate, leche y crema</string>
+    <string name="chai_nombre">Chai latte</string>
+    <string name="chai_descripcion">Té especiado con leche vaporizada</string>
+    <string name="croissant_nombre">Croissant de mantequilla</string>
+    <string name="croissant_descripcion">Hojaldre dorado, ligero y recién horneado</string>
+    <string name="pastel_nombre">Pastel de chocolate</string>
+    <string name="pastel_descripcion">Rebanada de chocolate con cubierta cremosa</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/fondo_producto"
+    android:gravity="center_vertical"
+    android:minHeight="88dp"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imagenProducto"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="@drawable/fondo_icono_cafe"
+        android:contentDescription="@string/imagen_producto"
+        android:padding="8dp"
+        android:scaleType="centerInside"
+        tools:src="@drawable/ic_capuchino" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="14dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textoNombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/cafe_oscuro"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            tools:text="Capuchino" />
+
+        <TextView
+            android:id="@+id/textoDescripcion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/cafe_medio"
+            android:textSize="13sp"
+            tools:text="Espresso, leche vaporizada y espuma cremosa" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textoPrecio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textColor="@color/terracota"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:text="$62.00" />
+
+</LinearLayout>

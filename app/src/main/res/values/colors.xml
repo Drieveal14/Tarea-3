@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cafe_oscuro">#3B241C</color>
+    <color name="cafe_medio">#75584C</color>
+    <color name="terracota">#A85D3D</color>
+    <color name="beige">#E7D4BC</color>
+    <color name="crema_claro">#FFF8ED</color>
+    <color name="crema_fondo">#F7EFE3</color>
+</resources>
