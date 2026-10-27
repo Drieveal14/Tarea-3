@@ -1,6 +1,7 @@
 <div style="text-align: left;">
   <img width="200" src="https://www.fciencias.unam.mx/sites/default/files/logoFC_2.png" alt="Logo FC">
 </div>
+
 # Tarea 3 - Cafetería
 
  La aplicación presenta el menú de una cafetería mediante un
